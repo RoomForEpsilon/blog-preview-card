@@ -8,24 +8,89 @@
 
 html {
     font-size: 16px;
+    font-weight: 500;
     font-family: Figtree, sans-serif;
     background-color: hsl(47, 88%, 63%);
 }
 
+body {
+    margin: 0px;
+}
 
 
 
-.learning {
+
+.blog-topic {
     box-sizing: border-box;
     background-color: hsl(47, 88%, 63%);
-    padding: 10px 15px;
-    font-weight: bold;
+    padding: 5px 5px;
+    font-weight: 800;
+    border-radius: 5px;
+    width: 25%;
+    margin: 0px auto 0px 25px;
+    text-align: center;
+    font-size: .75em;
+}
+
+.blog-card {
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 20px;
+    width: 310px;
+    margin: 25vh auto;
+    border: 1px solid black;
+    box-shadow: black 10px 10px;
+    display: block;
+}
+
+img {
+    width: 85%;
+    margin: 20px auto;
+    display: block;
     border-radius: 10px;
-    border: 5px color red;
-    position: static;
+}
+
+.author-info img {
+    width: 10%;
+    margin-left: 25px;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 main {
-    background-color: white;
-    border-radius: 10px;
+    height: 100vh;
 }
+
+p {
+    color: hsl(0, 0%, 42%);
+    margin-left: 25px;
+    line-height: 1.5;
+}
+
+.blog-topic, h1 , .date{
+    color: hsl(0, 0%, 7%);
+}
+
+.date {
+    font-size: .75em;
+}
+
+h1 , span {
+    font-weight: 800;
+}
+
+h1 {
+    margin-left: 25px;
+    font-size: 1.25em;
+}
+
+span {
+    margin-bottom: 10%;
+    margin-left: 10px;
+    padding-bottom: 100px;
+}
+
+.author-info {
+    vertical-align: middle;
+}
+
