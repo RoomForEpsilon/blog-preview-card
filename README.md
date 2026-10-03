@@ -23,6 +23,8 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
+![Screenshot of my QR code component](./images/screenshot.jpg)
+Change.
 
 ### Links
 
@@ -52,4 +54,6 @@ I used ChatGPT to ask questions after I implemented something and it didn't work
 
 ## Acknowledgments
 
+An article on Responsive and fluid typography.
+https://web.dev/articles/baseline-in-action-fluid-type
 
