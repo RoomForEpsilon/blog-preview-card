@@ -36,7 +36,7 @@ body {
     display: block;
 }
 
-img {
+article img {
     width: 85%;
     margin: 1.5rem auto;
     display: block;
@@ -93,4 +93,3 @@ span {
    border-radius: 3px; 
    outline: none;
 }
-
