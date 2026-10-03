@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
  
-- Solution URL: [Add solution URL here](https://github.com/RoomForEpsilon/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://roomforepsilon.github.io/blog-preview-card/)
+- Solution URL: [Solution URL here](https://github.com/RoomForEpsilon/blog-preview-card)
+- Live Site URL: [Live site URL here](https://roomforepsilon.github.io/blog-preview-card/)
 
 ### Built with
 
