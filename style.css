@@ -73,13 +73,13 @@ h1 , span {
 }
 
 h1 {
-    margin-left: 25px;
+    margin-left: 1.5rem;
     font-size: 1.25em;
 }
 
 span {
     margin-bottom: 10%;
-    margin-left: 10px;
+    margin-left: .75rem;
 }
 
 .author-info {
