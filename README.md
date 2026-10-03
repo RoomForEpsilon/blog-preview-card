@@ -23,7 +23,7 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-![Screenshot of my blog preview card](./images/screenshot.jpg)
+![Screenshot of my blog preview card](./assets/images/screenshot.jpg)
 
 ### Links
  
