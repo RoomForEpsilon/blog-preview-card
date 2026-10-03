@@ -23,11 +23,10 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-![Screenshot of my QR code component](./images/screenshot.jpg)
-Change.
+![Screenshot of my blog preview card](./images/screenshot.jpg)
 
 ### Links
-
+ 
 - Solution URL: [Add solution URL here](https://github.com/RoomForEpsilon/blog-preview-card)
 - Live Site URL: [Add live site URL here](https://roomforepsilon.github.io/blog-preview-card/)
 
@@ -50,7 +49,7 @@ I used ChatGPT to ask questions after I implemented something and it didn't work
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/RoomForEpsilon)
+- Frontend Mentor - [@RoomForEpsilon](https://www.frontendmentor.io/profile/RoomForEpsilon)
 
 ## Acknowledgments
 
