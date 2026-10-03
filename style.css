@@ -28,15 +28,18 @@ body {
     box-sizing: border-box;
     background-color: white;
     border-radius: 20px;
-    max-width: 310px;
+    max-width: 370px;
     width: 95%;
     margin: 25vh auto;
     border: 1px solid black;
     box-shadow: black 10px 10px;
-    display: block;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
 }
 
-article img {
+.top-img {
     width: 85%;
     margin: 1.5rem auto;
     display: block;
@@ -44,9 +47,9 @@ article img {
 }
 
 .author-info img {
-    width: 10%;
-    margin-left: 25px;
+    width: 15%;
     display: inline-block;
+    margin: 0 .5rem;
     vertical-align: middle;
 }
 
@@ -77,11 +80,11 @@ h1 {
 span {
     margin-bottom: 10%;
     margin-left: 10px;
-    padding-bottom: 100px;
 }
 
 .author-info {
     vertical-align: middle;
+    margin: 1rem;
 }
 
 .attribution a:hover {
